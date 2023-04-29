@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashik Rana</h1>
+<h1 align="center">Hi, I'm Sweet Rana</h1>
 <h3 align="center">Frontend Software Developer (React | Next.js)</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
